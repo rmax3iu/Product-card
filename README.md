@@ -15,7 +15,7 @@
 <!-- |-------------------------------------------------------------------------------------------| -->
 <h1 align="left">⚽ Product Card</h1>
 <p align="justify">
-Ce projet est un ensemble de trois cartes interactives présentant des joueurs du Real Madrid, réalisées en HTML et CSS. Il s'agit d'un petit exercice de style autour de la mise en page et de l'animation au survol, mais la structure de carte pourrait être réutilisée pour un site autour du football, ou tout autre projet nécessitant ce type de fiche produit interactive.
+Ce projet est un ensemble de quatre cartes interactives présentant des joueurs du Real Madrid, réalisées en HTML et CSS. Il s'agit d'un petit exercice de style autour de la mise en page et de l'animation au survol, mais la structure de carte pourrait être réutilisée pour un site autour du football, ou tout autre projet nécessitant ce type de fiche produit interactive.
 </p>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
