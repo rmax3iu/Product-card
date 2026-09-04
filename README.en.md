@@ -16,7 +16,7 @@
 <h1 align="left">⚽ Product Card</h1>
 
 <p align="justify">
-This project is a set of three interactive cards showcasing Real Madrid players, built with HTML and CSS. It's a small styling exercise around layout and hover animation, but the card structure could easily be reused for a football-related website, or any other project requiring this type of interactive product card.
+This project is a set of four interactive cards showcasing Real Madrid players, built with HTML and CSS. It's a small styling exercise around layout and hover animation, but the card structure could easily be reused for a football-related website, or any other project requiring this type of interactive product card.
 </p>
 
 <!-- |-------------------------------------------------------------------------------------------| -->
